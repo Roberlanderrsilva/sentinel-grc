@@ -1,4 +1,43 @@
-# 🛡️ Sentinel GRC: Auditoria de Dados Automatizada
+# 🛡️ Sentinel GRC - Auditoria e Compliance Automatizado
+
+![Dashboard GRC](dashboard_grc.png)
+
+## 📝 Descrição do Projeto
+O **Sentinel GRC** é uma solução de engenharia de dados aplicada à governança e conformidade. O sistema processa grandes volumes de logs de auditoria para identificar violações de acesso, horários críticos e acessos internacionais suspeitos, transformando dados brutos em inteligência estratégica.
+
+---
+
+## 🚀 Funcionalidades
+* **Geração de Dados (Mock):** Simulação de 1.000 registros de auditoria.
+* **Análise de Risco:** Identificação automática de violações de privilégio e acessos fora do horário comercial.
+* **Dashboard Visual:** Geração de gráficos de barras para visualização imediata da gravidade dos alertas.
+* **Relatórios Automáticos:** Exportação de alertas críticos em formato CSV para tomada de decisão.
+
+---
+
+## 🛠️ Stack Tecnológica & Infraestrutura
+* **Linguagem:** Python 3.12 (Pandas para análise de dados).
+* **Visualização:** Plotly e Kaleido para exportação de gráficos.
+* **Desenvolvimento:** Baixo consumo de hardware (Lubuntu + Nano), otimizando a performance em ambientes limitados.
+* **Versionamento:** Git & GitHub com deploy automático via GitHub Pages.
+
+---
+
+## 📂 Arquitetura e Organização
+O projeto segue uma estrutura de pipeline de dados (Ingestão -> Processamento -> Output):
+
+/sentinel-grc
+├── auditoria_grc.py      # Motor de análise e lógica de compliance
+├── dashboard_grc.py     # Script gerador do painel visual
+├── dashboard_grc.png    # Resultado final da análise (Dashboard)
+├── acessos_auditoria.csv   # Base de dados de entrada
+├── alertas_criticos.csv    # Relatório de riscos detectados
+├── index.html           # Ponto de entrada para o site
+└── README.md            # Documentação técnica e guia do projeto
+
+---
+
+Este projeto demonstra competências em **Engenharia de Dados**, **Segurança da Informação** e **Governança de TI**.# 🛡️ Sentinel GRC: Auditoria de Dados Automatizada
 
 ## 📖 Sobre o Projeto
 O **Sentinel GRC** é um projeto de Engenharia e Análise de Dados desenvolvido para solucionar um problema real de Governança corporativa: a dificuldade de auditar manualmente milhares de registros de acesso em busca de irregularidades.
