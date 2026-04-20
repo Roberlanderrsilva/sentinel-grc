@@ -26,6 +26,10 @@ O **Sentinel GRC** é uma solução de engenharia de dados aplicada à governan�
 ## 📂 Arquitetura e Organização
 O projeto segue uma estrutura de pipeline de dados (Ingestão -> Processamento -> Output):
 
+### 📂 Arquitetura e Organização
+O projeto segue uma estrutura de pipeline de dados:
+
+\`\`\`text
 /sentinel-grc
 ├── auditoria_grc.py      # Motor de análise e lógica de compliance
 ├── dashboard_grc.py     # Script gerador do painel visual
@@ -34,7 +38,7 @@ O projeto segue uma estrutura de pipeline de dados (Ingestão -> Processamento -
 ├── alertas_criticos.csv    # Relatório de riscos detectados
 ├── index.html           # Ponto de entrada para o site
 └── README.md            # Documentação técnica e guia do projeto
-
+\`\`\`
 ---
 
 Este projeto demonstra competências em **Engenharia de Dados**, **Segurança da Informação** e **Governança de TI**.# 🛡️ Sentinel GRC: Auditoria de Dados Automatizada
