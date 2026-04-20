@@ -23,8 +23,6 @@ O **Sentinel GRC** é uma solução de engenharia de dados aplicada à governan�
 
 ---
 
-## 📂 Arquitetura e Organização
-O projeto segue uma estrutura de pipeline de dados (Ingestão -> Processamento -> Output):
 
 ### 📂 Arquitetura e Organização
 O projeto segue uma estrutura de pipeline de dados:
