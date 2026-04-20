@@ -76,8 +76,5 @@ O resultado foi consolidado em um relatório numérico e em um dashboard visual 
 - **Desenvolvimento de Baixo Consumo:** Todo o projeto foi codificado via **Terminal (CLI)** utilizando o editor **Nano**, otimizando a performance em ambiente Lubuntu com foco em eficiência de hardware.
 - **Armazenamento:** Estrutura baseada em arquivos CSV para garantir portabilidade e rapidez.
 
-## 📊 Resultado Final
-![Dashboard GRC](dashboard_grc.png)
-
 ---
 *Este projeto demonstra competências de Análise de Dados, Programação Python e visão estratégica de Governança de TI.*
