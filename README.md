@@ -1,6 +1,16 @@
 # 🛡️ Sentinel GRC - Auditoria e Compliance Automatizado
 
-![Dashboard GRC](dashboard_grc.png)
+![Dashboard GRC](dashboard_grc.png) 
+
+### 📺 Demonstração Prática (Gráfico de Acessos)
+Confira abaixo a execução do projeto:
+
+
+https://github.com/user-attachments/assets/c70630c7-73aa-4103-b39a-720f8d6cfe8e
+
+
+
+<video src="NOME_EXATO_QUE_VOCE_DEU.mp4" width="100%" controls></video>
 
 ## 📝 Descrição do Projeto
 O **Sentinel GRC** é uma solução de engenharia de dados aplicada à governança e conformidade. O sistema processa grandes volumes de logs de auditoria para identificar violações de acesso, horários críticos e acessos internacionais suspeitos, transformando dados brutos em inteligência estratégica.
